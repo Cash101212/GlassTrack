@@ -1,0 +1,16 @@
+{
+  "width": 440,
+  "height": 200,
+  "radius": 34,
+  "opacity": 235,
+  "bg1": "#1b1d3d",
+  "bg2": "#0b0c1e",
+  "accent": "#6d7cff",
+  "text": "#ffffff",
+  "subtext": "#a9adc9",
+  "glow": 1.0,
+  "always_on_top": true,
+  "hide_from_taskbar": true,
+  "x": null,
+  "y": null
+}
